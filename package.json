@@ -1,0 +1,19 @@
+{
+  "name": "gmeetclone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.0",
+    "express-fileupload": "^1.5.0",
+    "socket.io": "^4.7.4"
+  },
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
